@@ -32,5 +32,5 @@ Estamos emocionados por el futuro de Readrater y planeamos implementar las sigui
 
 ## Contribución
 
-Actualmente, Readrater es un proyecto cerrado y no aceptamos contribuciones externas. Sin embargo, apreciamos mucho tus ideas y opiniones. Puedes contactarnos a través de [nuestro correo electrónico](mailto:jonayiglesiasp@gmail.com).
+Actualmente, Readrater es un proyecto cerrado y no aceptamos contribuciones externas. Sin embargo, apreciamos mucho tus ideas y opiniones. Puedes contactarnos a través de [nuestro correo electrónico](mailto:davidoteromesejo@gmail.com).
 
